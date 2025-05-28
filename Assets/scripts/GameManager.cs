@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour{
 
+
     public GameObject player;
 
     //Pickup and Level Completion Logic
